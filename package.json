@@ -1,0 +1,26 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Node Crash Project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JervanSahd/nodejs.git"
+  },
+  "author": "Steve Snavely",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JervanSahd/nodejs/issues"
+  },
+  "homepage": "https://github.com/JervanSahd/nodejs#readme",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
